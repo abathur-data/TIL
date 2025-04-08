@@ -15,6 +15,8 @@
 | `REVERSE(str)`                       | 문자열 뒤집기              | `REVERSE('abc') → 'cba'`                            |
 | `FORMAT(number, decimals)`           | 숫자에 천 단위 쉼표 붙이기 | `FORMAT(1234567.89, 2) → '1,234,567.89'`            |
 
+
+
 ## Date/Time 관련 함수
 
 | 함수                               | 설명                   | 예시                                                         |
